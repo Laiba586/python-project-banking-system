@@ -20,19 +20,4 @@ This project is a Python-based **Banking System** that allows users to create ac
 4. **View All Accounts**:
    - Lists all created accounts with details like account number, holder's name, and current balance.
 
----
 
-## Prerequisites
-
-To run this project, you will need:
-- **Python 3.x**
-- A text editor or IDE such as **VS Code** or **PyCharm**.
-
----
-
-## How to Run
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/banking-system.git
-cd banking-system
